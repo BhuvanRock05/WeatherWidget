@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import "weather.css";
+import "./weather.css";
 
 const weatherIcons = {
   sunny: '☀️',  
