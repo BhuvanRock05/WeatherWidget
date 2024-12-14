@@ -1,0 +1,39 @@
+.weather-widget {
+  width: 300px;
+  padding: 20px;
+  background-color: #f3f3f3;
+  border-radius: 10px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.weather-info {
+  margin-top: 20px;
+}
+
+.weather-info h3 {
+  font-size: 24px;
+}
+
+.weather-info p {
+  font-size: 18px;
+}
+
+.weather-icon {
+  font-size: 40px;
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
