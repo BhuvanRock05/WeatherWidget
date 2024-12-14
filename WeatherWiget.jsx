@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-
+import "weather.css";
 // Simulating weather icons using emoji. You can replace this with images if needed.
 const weatherIcons = {
   sunny: '☀️',  // Sunny icon
